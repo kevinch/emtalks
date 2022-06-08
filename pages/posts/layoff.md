@@ -1,7 +1,7 @@
 ---
 title: Lessons from a layoff
 date: 2022-06-08
-description: Lessons learned after my March 2022 layoff
+description: Takeaway points from an abrupt layoff
 tag: layoff review stakeholder leadership
 author: You
 ---
