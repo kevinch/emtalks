@@ -12,7 +12,7 @@ As some readers might have come to see in past weeks, several tech companies per
 
 ### Do not take it personal but have a step back and think
 
-Once the initial shock disappeared I quickly grabbed a sheet of paper and started to lay down the last two years I spent as Engineering Manager with its main events, deliveries, team headcount updates, secondary team projects, parallel projects, changes in leadership and so on. I created a rough sketch and it brought several insights that I'm sure will be helpful in my upcoming position.
+Once the initial shock disappeared I quickly grabbed a sheet of paper and started to lay down the last two years I spent as Engineering Manager with its main events, deliveries, team updates, secondary and parallel projects, changes in leadership and so on. I created a rough sketch and it brought several insights that I'm sure will be helpful in my upcoming position.
 
 ### Align, align, align with leadership
 
@@ -28,7 +28,7 @@ Once the initial shock disappeared I quickly grabbed a sheet of paper and starte
 
 ### Warn leadership of delays
 
-    One of my key projects was ready to be shipped for several months but an important element outside of the engineering scope was blocking its publication. At the time, doing all that I was doing on a daily basis as EM, I did not feel the need to communicate this clearly to leadership. Wrong again, they might have given me insights on how to proceed or even stepped in to speed up the process. This links directly to the first item of this list, in case of doubt ,yell!
+    One of my key projects was ready to be shipped for several months but an important element outside of the engineering scope was blocking its publication. At the time, doing all that I was doing on a daily basis as EM, I did not feel the need to communicate this clearly to leadership. Wrong again, they might have given me insights on how to proceed or even stepped in to speed up the process. This links directly to the first item of this list, in case of doubt, yell!
 
 ### Show your work
 
