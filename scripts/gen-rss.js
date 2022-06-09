@@ -5,7 +5,7 @@ const matter = require('gray-matter')
 
 async function generate() {
   const feed = new RSS({
-    title: 'Your Name',
+    title: 'Kevin Chevalliier',
     site_url: 'https://emtalks.xyz/',
     feed_url: 'https://emtalks.xyz/feed.xml'
   })
