@@ -8,4 +8,4 @@ Just `git push` to the repo and it will deploy at Vercel.
 
 ## How to use
 
-`yarn dev`
+`yarn dev`, `yarn build` & `yarn start`
