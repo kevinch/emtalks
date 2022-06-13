@@ -20,6 +20,7 @@ export default function Document() {
         <meta name="twitter:title" content={meta.title} />
         <meta name="twitter:description" content={meta.description} /> */}
         {/* <meta name="twitter:image" content={meta.image} /> */}
+        <link rel="shortcut icon" href="/static/favicon.ico" />
       </Head>
       <body>
         <Main />
