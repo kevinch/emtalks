@@ -1,8 +1,8 @@
 ---
 title: Lessons from a layoff
-date: 2022-06-08
+date: 2022/6/8
 description: Takeaway points from an abrupt layoff
-tag: layoff review stakeholder leadership
+tag: layoff,review,stakeholder,leadership
 author: You
 ---
 
