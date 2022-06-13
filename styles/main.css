@@ -60,6 +60,7 @@ img.next-image {
   color: #0074de;
 }
 
-.nav-line .nav-link {
-  color: #69778c;
-}
+/* Updated: */
+.nav-line span.nav-link {color: #374151;}
+.nav-line a.nav-link {color: #0074de}
+.dark .dark\:prose-dark span.nav-link {color: #fff}

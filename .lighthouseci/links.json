@@ -1,3 +1,7 @@
 {
+<<<<<<< Updated upstream
   "http://localhost:3000/": "https://storage.googleapis.com/lighthouse-infrastructure.appspot.com/reports/1654881986809-78621.report.html"
+=======
+  "http://localhost:3000/": "https://storage.googleapis.com/lighthouse-infrastructure.appspot.com/reports/1655124408893-66510.report.html"
+>>>>>>> Stashed changes
 }
