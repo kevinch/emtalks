@@ -37,6 +37,6 @@ In the end, I managed to hire a Senior Engineer pretty quickly. I also repeated 
 
 Note: we had a front-end engineering hiring guild, a group of volunteers made of engineers and an HR person, to improve the whole process for hiring front-end engineers. This group was acting specifically in the Coding Challenge and System Design steps.
 
-## Scale, share, and grow
+## Scale, share, and keep track
 
 Once you manage to have a direct impact on a hire, do not stop there. Aim for more senior roles, incentivize your team members to do so to scale the process, hunt for other teams, share your experience with other EM,s and write down those in your Self Assessment (more on that in an upcoming post). This is a part of your professional achievements as well.
