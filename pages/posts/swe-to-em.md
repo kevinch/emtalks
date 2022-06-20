@@ -1,11 +1,11 @@
 ---
-title: From SWE to EM
+title: From front-end SWE to EM
 date: 2022/6/20
 description: My journey to the EM position through a wide array of experiences.
 tag: front-end, side projects, mentorship
 ---
 
-# From fron-end SWE to EM
+# From front-end SWE to EM
 
 This post was suggested by an ex-colleague at VTEX, [Emerson L.](https://www.linkedin.com/in/emersonlaurentino/) who thought it would be interesting for front-end developers to know what led me to the EM position. Looking just at my previous company, there were indeed fewer EMs coming from a front-end scope in comparison with back-end or SRE. This post aims to relate my experience of the transition from front-end Software Engineer (SWE), to EM.
 
