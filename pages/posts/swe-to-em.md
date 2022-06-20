@@ -1,7 +1,7 @@
 ---
 title: From SWE to EM
 date: 2022/6/20
-description: My path to the EM position through a wide array of experiences.
+description: My journey to the EM position through a wide array of experiences.
 tag: front-end, side projects, mentorship
 ---
 
