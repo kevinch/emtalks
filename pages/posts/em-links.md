@@ -15,10 +15,14 @@ This post might get updates over time.
 
 Reference on [LinkedIn](https://www.linkedin.com/in/gergelyorosz), Gergely writes [The Pragmatic Engineer](https://www.pragmaticengineer.com) blog and newsletter. I do folow him on LinkedIn and suscribed to the newsletter. 
 
-## leaddev.com [EN]
+## LeadDev [EN]
 
 [LeadDev](https://leaddev.com) is a very complete site about engineering leadership. They have a mailing list so that you can receive frequent updates into your inbox. 
 
 ## Tech Leadership Rocks [PT]
 
 This one is a podcast in portuguese about [Gestão e Liderança em Tecnologia](https://techleadership.rocks) or management and leadership for the english speakers. There is also a newsletter so that you can get links to the audios straight into your inbox with other interesting arcticles on different sites.
+
+## Patrick Kua [EN]
+
+Patrick runs the [Level Up](https://levelup.patkua.com) newsletter for leaders in tech as well as paid trainings via [patkua.com](https://www.patkua.com).
