@@ -1,8 +1,8 @@
 ---
 title: EM related people, newsletters and feeds
 date: 2022/7/5
-description: 
-tag: 
+description: A list of resources to keep up to date as engineer manager
+tag: links, newsletter, engineering managers
 ---
 
 # EM related people, newsletters and feeds
