@@ -7,13 +7,11 @@ tag: links, newsletter, engineering managers
 
 # EM-related people, newsletters and feeds
 
-Here is a quick post about people, feeds and newsletters I am following nowadays to keep in touch with EM topics and their evolutions. I do not follow tons of people or newsletters but rather focus on the ones that have a frequency, and relevant content that I can use in my daily professional life. Short and to the point. Frequences are variable but nothing too crazy, otherwise I tend to unfollow. 
+Here is a quick post about people, feeds and newsletters I am following nowadays to keep in touch with EM topics and their evolutions. I do not follow tons of people or newsletters but rather focus on the ones that have frequency, and relevant content that I can use in my daily professional life. Short and to the point.
 
-This post might get updates over time.
+## The Pragmatic Engineer (EN)
 
-## Gergely Orosz (EN)
-
-Reference on [LinkedIn](https://www.linkedin.com/in/gergelyorosz), Gergely writes [The Pragmatic Engineer](https://www.pragmaticengineer.com) blog and newsletter. I do follow him on LinkedIn and subscribe to the newsletter.
+Gergely Orosz writes [The Pragmatic Engineer](https://www.pragmaticengineer.com) blog and newsletter. I do follow him on LinkedIn and subscribe to the paid newsletter. Great content, a must-read in my opinion for EMs. 
 
 ## LeadDev (EN)
 
