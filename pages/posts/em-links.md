@@ -1,8 +1,8 @@
 ---
 title: EM-related people, newsletters and feeds
 date: 2022/7/5
-description: A list of resources to keep up to date as an engineer manager
-tag: links, newsletter, engineering managers
+description: A list of resources to keep up to date as an engineer manager with a focus on front-end engineering.
+tag: em-links, newsletter, engineering managers, podcast, front-end
 ---
 
 # EM-related people, newsletters and feeds
@@ -11,7 +11,7 @@ Here is a quick post about people, feeds and newsletters I am following nowadays
 
 ## The Pragmatic Engineer (EN)
 
-Gergely Orosz writes [The Pragmatic Engineer](https://www.pragmaticengineer.com) blog and newsletter. I do follow him on LinkedIn and subscribe to the paid newsletter. Great content, a must-read in my opinion for EMs. 
+[Gergely Orosz](https://www.linkedin.com/in/gergelyorosz/) writes [The Pragmatic Engineer](https://www.pragmaticengineer.com) blog and newsletter. I do follow him on LinkedIn and subscribe to the paid newsletter. A must-read in my opinion for EMs. 
 
 ## LeadDev (EN)
 
@@ -19,7 +19,7 @@ Gergely Orosz writes [The Pragmatic Engineer](https://www.pragmaticengineer.com)
 
 ## Tech Leadership Rocks (PT)
 
-This one is a podcast in Portuguese about [Gestão e Liderança em Tecnologia](https://techleadership.rocks) or management and leadership for English speakers. There is also a newsletter so that you can get links to the audios straight into your inbox with other interesting articles on different sites.
+A podcast in Portuguese about [Gestão e Liderança em Tecnologia](https://techleadership.rocks) or management and leadership. There is also a newsletter to get links straight into your inbox with other articles on different sites.
 
 ## Patrick Kua (EN)
 
@@ -27,4 +27,12 @@ Patrick runs the [Level Up](https://levelup.patkua.com) newsletter for leaders i
 
 ## React Newsletter (EN)
 
-[React Newsletter](https://reactnewsletter.com) is about React development yes. It brings news, articles, tutorials and projects of the React ecosystem. I do not develop on a daily basis but need to be aware of the updates of one of the main tools used by my teams.
+[React Newsletter](https://reactnewsletter.com) brings news, articles, tutorials and projects of the React ecosystem. I do not develop on a daily basis but need to be aware of the updates of one of the main tools used by my teams.
+
+## Toptal blogs (EN)
+
+I have been following and reading [Toptal Engineering blog](https://www.toptal.com/developers/blog) for some years and the content is of great quality. Check the submenu for other sections like [Projects](https://www.toptal.com/project-managers/blog) and [Products](https://www.toptal.com/product-managers/blog).
+
+## Frontend Focus (EN)
+
+Another one towards frontend development, [frontendfoc.us](https://frontendfoc.us) is a newsletter for news, article and tutorials. 
