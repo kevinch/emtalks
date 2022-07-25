@@ -1,7 +1,7 @@
 ---
 title: New company - week 3. Frustration and patience
 date: 2022/7/25
-description: Thoughts on not being productive yet.
+description: Thoughts on not being productive yet
 tag: onboarding, productivity, learnings
 ---
 
