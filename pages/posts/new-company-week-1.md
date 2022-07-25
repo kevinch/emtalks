@@ -1,11 +1,11 @@
 ---
-title: New company - week 1. Onboarding, first contacts, and side actions.
+title: New company - week 1. Onboarding, first contacts, and side actions
 date: 2022/7/11
 description: First impressions and actions of week one in a new organization.
 tag: onboarding, book, peers, team
 ---
 
-# New company - week 1. Onboarding, first contacts, and side actions.
+# New company - week 1. Onboarding, first contacts, and side actions
 
 This week, I started a job at a new place and thought I would share my first impressions of such a move.
 
