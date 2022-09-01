@@ -9,17 +9,17 @@ tag: hiring, mistakes, learnings
 
 About a month has passed since the last entry. What now? How did it go from the frustration and patience talk?
 
-## Calm down.
+## Calm down
 
-My upper manager (commonly called "boss" but I'm no fan of this word) was right and even gave me one formal feedback with some bad as well as good.
+My upper manager (commonly called "boss" but I'm no fan of this word) was right and even gave me one formal feedback with some bad as well as good news.
 
 Wait, what? Already? Dude, how? Yes. Slower. Calma. Breathe.
 
 Ok. let me explain. 
 
-As said in my previous post, my professional scope had changed quite a lot. Being in a new context, I wanted to show my value asap. So I on went to apply the (intense) rhythm I used to have at my previous company. But this time, I did not have that many direct and side occupations, so my energy went straight ahead into my project and team. 
+As said in my previous post, my professional scope has changed quite a lot. Being in a new context, I wanted to show my value asap. So I on went to apply the (intense) rhythm I used to have at my previous company. But this time, I did not have that many direct and side occupations, so my energy went straight ahead into my project and team. 
 
-Think about this like:
+It used to be something like:
 
 10% here, 35% that, 10% this, 5% aqui, 15% on this, 10% here as well, and 15% over there.
 
@@ -27,11 +27,11 @@ To something like this:
 
 30% ON THIS (too much), 40% ON THAT (too much as well), and 30% HERE.
 
-With "this" and "that" not requiring, by far, this much. Confused? This might not have been the best storytelling. Let's go with words. Classic.
+With "this" and "that" not requiring, by far, this much. Confused? This might not have been the best storytelling. Let's go try again.
 
-On the project side, I started to learn as much as possible about the topic, from formal external regulations to the current state of the product, IT and UX. Testing the feature on the app in production, testing the same feature onto competition's apps, analyzing every Figma file from the UX team, reading through dozens of presentations found on Drive... You got it.
+On the project side, I started to learn as much as possible about the topic, from formal external regulations to the current state of the product, IT development, and UX designs. Testing the feature on the app in production, testing the same feature onto competition's apps, analyzing every Figma file from the UX team, reading through dozens of presentations found on Drive... You got it.
 
-Then on the team's side, I wanted to organize rituals, gather channels, create new ones, start 1:1s, get a clear vision of all the tasks for the current quarter deliveries, and know about what my team members were doing (yes, I might have gone back to micro-managing without even realizing!). I even caught the flu, not the crazy one we've heard about the last two years, and kept on working while tired real good, with almost no voice and a nose full of non-glamourous things. 
+Then on the team's side, I wanted to organize rituals, gather channels, create new ones, start 1:1s, get a clear vision of all the tasks for the current quarter deliveries, and know about what my team members were doing (yes, I might have gone back to micro-managing without even realizing!). I even caught the flu, not the crazy one, and kept on working while tired real good, with almost no voice and a nose full of non-glamourous things. 
 
 Well. Done. Me. (sarcasm inside)
 
@@ -39,10 +39,10 @@ I ended up scaring my team, showing the wrong things to do, and working while si
 
 Two things. 
 
-1. As said above, I guess I wanted to show that "I was good", and prove my value. 
-2. The previous way of working I knew was the one to apply to a new context. 
+1. As said above, I guess I wanted to show that "I am good", and prove my value. 
+2. The previous way of working I knew, was not the one to apply to a new context. 
 
-Bad thinking here. But I guess you learn while making mistakes. And once again, writing this down helps a lot to rethink my actions and improve upon them.
+Bad thinking here. But you learn when doing things and making mistakes. And once again, writing this down helps a lot to rethink my actions and improve upon them.
 
 ## Wait. It has been all bad since your last post?
 
