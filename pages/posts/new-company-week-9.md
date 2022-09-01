@@ -1,6 +1,6 @@
 ---
 title: New company - week 9. Too fast, balance and direct impact
-date: 2022/8/31
+date: 2022/9/1
 description: About doing too much, scaring people and finding balance.
 tag: hiring, mistakes, learnings
 ---
