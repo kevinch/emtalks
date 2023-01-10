@@ -19,7 +19,7 @@ This post is, (hopefully), the first of a series around the project management t
 
 During the last months, my team and I used a simple Kanban perspective for task management tracking. One backlog, one mega sprint (3 months), and some tasks dragging over the columns of our board. No refinement, no planning. Very few retrospectives. It has its advantages but from what I saw also several drawbacks. 
 
-We did not allow time for any refinement or grooming. It locked us into a task-pushing mindset, more old and mechanical than modern and dynamic. The massive retros we did, took a large amount of time and were not followed by actual actions. Finally, the lack of overview between main projects, side projects, and small side tasks over time had us lose a global view of what we were and still had to do at specific points in time.
+We did not allow time for any refinement or grooming. It locked us into a task-pushing mindset, more old and mechanical than modern and dynamic. The massive retros we did, took a large amount of time and were not followed by actual actions. Finally, the lack of overview between main projects, side projects, and small side tasks over time had us lose a global view of where we were and still had to do at specific points in time.
 
 ## 23Q1
 
@@ -29,4 +29,4 @@ At the end of every two weeks, we plan to do a retro of what was delivered or no
 
 On the side, we have registered the whole process update on an internal document and try to keep everyone engaged in writing thoughtful descriptions for each task. 
 
-The last important item I can remember now is that we will try to track as much as we can "intruder" items during our sprints. Those little things that come out of the blue and delay projects. Let's see if we can spot patterns within intruders or defects in our methodology and improve.
+The last important item I can remember now is that we will try to track as much as we can "intruder items" during our sprints. Those little things that come out of the blue and delay projects. Let's see if we can spot patterns within intruders or even defects in our methodology and improve.
