@@ -3,7 +3,7 @@ import { Html, Head, Main, NextScript } from 'next/document'
 export default function Document() {
   const meta = {
     title: 'EM Talks by Kevin C.',
-    description: 'Engineering Management experience'
+    description: 'Engineering Management experience between Mercado Livre and VTEX from a frontend engineer slash designer.'
   }
 
   return (
