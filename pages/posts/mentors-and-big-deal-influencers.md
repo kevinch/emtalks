@@ -24,12 +24,12 @@ Be curious about as many topics as you can around you.
 ## My first EM, Caio. 
 With Caio, I got my first experience with someone asking me frequently how I was feeling, what made me happy, and what was not. I quickly saw the power of those 1:1s and was quite excited when their time came. Caio had the capacity of using words that would open me to let go of the frustrations and negative points. Furthermore, we would always find starers for actionable and todos over time. 
 
-### Lesson for later: 
+#### Lesson for later: 
 Listen to others and find a way for them to open up.  Spend (invest) time on your 1:1s. It has and continues to be written in books and blogs for a reason. 
 
 Caio also insisted on teaching his engineers several aspects of our job we were not so good at or were even unaware of. We had weekly lessons and those made me discover topics like e2e testing, Typescript, Docker, and RxJS among others in record time. It was not always easy to follow but the teaching idea and concepts were imprinted. 
 
-### Lesson for later: 
+#### Lesson for later: 
 Do you want a team that performs? Great, find the missing skills and dedicate time during working hours to work on them. 
 
 ## Life lesson, Geraldo.
@@ -40,7 +40,7 @@ Turned out I got an offer after the process with a massive salary update. Someth
 
 His point was that  I had kept this all for myself and never expressed it to him or other senior developers that could have helped me. I never made a point of my frustration, never expressed my intention, never said "Hey, I have been doing a pretty decent job for a while, I deserve a raise". Nope.
 
-### Lesson for later: 
+#### Lesson for later: 
 Speak up, never keep it inside. You can always act on something, even if it does not seem easy or straightforward. Ask a peer, your direct leader, or even an external mentor.  
 
 ## Conclusion
