@@ -1,11 +1,11 @@
 ---
-title: Mentors and big-deal influencers
+title: Mentors and long-term lessons
 date: 2023/2/13
 description: Thinking about key professionals and their influence on my career so far.
 tag: mentorship, learnings, 
 ---
 
-# Mentors and big-deal influencers
+# Mentors and long-term lessons
 
 A few days ago I made a quick [post on LinkedIn](https://www.linkedin.com/posts/kevinchevallier_ja-li-v%C3%A1rios-livros-por-ai-sobre-carreira-activity-7029063659058307072-hayg?utm_source=share&utm_medium=member_desktop) (PT) about a book I had enjoyed lately where one of the chapters speaks about mentors and their role in one's professional development. 
 
