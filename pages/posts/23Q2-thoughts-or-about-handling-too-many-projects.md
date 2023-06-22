@@ -13,7 +13,7 @@ During the second quarter of 2023, I have been managing quite a lot of projects 
 
 Since the end of 2022, I am managing a team of eight developers with the following capabilities: frontend, backend, and native (iOS & Android). Reminder, my background has been frontend development for years with a pinch of backend with NodeJS on my side project [bolao.io](https://bolao.io/). This is a warning in my opinion because those programming areas are quite specific on their own. For instance, I knew nothing of the process of native development in 2022 and it is something quite complex. Sure enough, as a leader/manager, I do not need to know everything, but a global understanding is a good thing to have. The other point here is that you have to multiply by almost eight the number of 1:1s, PDI sessions, and all the people management tasks. 
 
-On top of that, I became responsible for quite a few projects in 23Q2 due to internal decisions. Six projects with one being linked to a regulatory update by the central bank of Brazil. Three projects were from 23Q1. Five others as internal IT items, and around eight for an external team (which turned out to be three sub-teams with each having their leaders and developers/designers/product people). 
+On top of that, I became responsible for quite a few projects in 23Q2 due to internal decisions. Six projects with one being linked to a regulatory update by the central bank of Brazil. Three "old ones" from 23Q1. Five others internal IT items, and around eight for an external team (which turned out to be three sub-teams with each having their leaders and developers/designers/product people). 
 
 To add a bit more _todos_, we got our share of bugs to be fixed, vulnerabilities to mitigate, unplanned API migrations, downtime with some testing environments, and so on. 
 
@@ -21,15 +21,13 @@ And here is the main feeling that arose from all that.
 
 ## Frustration 
 
-Frustration due to the feeling that I always seemed to be missing something. An alignment, a few metrics, a deploy date, a piece of information about a related system of a project, a delivery estimation... The list goes on. The feeling has been that of running behind the present moment in time rather than acting in front of it to organize it all well and have tasks happen smoothly. 
+Frustration due to the feeling that I always seemed to be missing something. An alignment, a few metrics, a deploy date, a piece of information about a related system of a project, a delivery estimation... The list goes on. The feeling has been that of running behind the present moment in time rather than acting in front of it to plan and organize things well and have tasks happen smoothly. 
 
 Basically:  _me running behind_ -> _present time_ instead of _present time_ -> _me in front organizing for it all to happen well_. Makes sense? I hope it does.
 
 Frustration when a leader of mine asked something I should have known at the time. Frustration to realize I did not know something important during an alignment meeting with people from the UX or Product team. 
 
 Frustration to see a project using way over the estimated time at the start of the quarter and therefore impacting the others planned. 
-
-Frustration to not feel in control simply put. 
 
 ## Mistakes
 
@@ -65,7 +63,9 @@ Delegate meeting presences if your agenda goes crazy. Ask your developers to rep
 
 Organize your notes every day so they do not become obsolete and always add a date if you do not use something that automates this. For example, I like to write in a Sublime file. Super fast, super light. But it requires some note management. 
 
+And keep having those Spanish lessons every week. A new language is not something easy to master.
+
 ## Tiny conclusion
 
-Those are important insights of 23Q2 but it has not been all bad, do not fear. We delivered quite a few tasks yes. 
+Those are important insights of 23Q2 but it has not been all bad, do not fear. We delivered quite a few tasks and managed a few remote happy hours :) 
 
