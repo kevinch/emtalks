@@ -13,7 +13,9 @@ I am not for writing code on the critical path at work, but rather on side initi
 
 Outside daily work, I think it is good to experiment, try new things and have a side project or two to tweak and maintain. 
 
+There are a lot of articles out there about writing code within Engineering Management positions so I will keep it short in this post.
+
 In that way, I recently built a super simple frontend app: [Vite Es Verbs](https://vite-verbs-es.vercel.app/).
 
-It's built on [Vite](https://vitejs.dev/) and React to perform super-fast searches of Spanish verbs. Since I need those on a daily basis at Mercado Livre to write and speak with coworkers based in Argentina or Colombia, it is super useful to not have to load tons of ads on other sites I used for this. I am also experimenting an alternative to GA with [mixpanel](https://mixpanel.com). 
+It's built on [Vite](https://vitejs.dev/) and React to perform super-fast searches of Spanish verbs. Since I need those on a daily basis at Mercado Livre to write and speak with coworkers based in Argentina or Colombia, it is super useful to not have to load tons of ads on other sites I used for this. I am also testing an alternative to GA with [Mixpanel](https://mixpanel.com). 
 
