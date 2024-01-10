@@ -21,6 +21,7 @@ export default function Document() {
         <meta name="twitter:description" content={meta.description} /> */}
         {/* <meta name="twitter:image" content={meta.image} /> */}
         <link rel="shortcut icon" href="/favicon.ico" />
+        <script async src="https://us.umami.is/script.js" data-website-id="fec316e4-7a8d-4229-9bd8-92ad9350a8cf"></script>
       </Head>
       <body>
         <Main />
