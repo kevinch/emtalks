@@ -2,7 +2,7 @@
 title: Moving back to an IC position
 date: 2024/6/5
 description: Career evolution back to individual contributor
-tag: career,
+tag: career evolution, downlevelling
 ---
 
 # Moving back to an IC position
