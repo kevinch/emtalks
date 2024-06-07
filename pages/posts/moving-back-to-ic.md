@@ -75,7 +75,7 @@ Third, I always loved writing frontend code, and as said above, I never stopped 
 
 ## So what is your new title and did you get a similar salary?
 
-I recently got my copy of the "Software Engineer's Guidebook" by Gergely Orosz and it was great to read about the "switching jobs" chapter before actually making the move myself. Gergely tells about _downlevelling_ and in my case this is what happened. I went from four years as an engineer manager to a senior software engineer. Nothing super frustrating but when thinking of a typical career growth it might feel like downlevelling indeed. Truth is, I am not really concerned about this and think that my years as EM will pay off in the middle to long term.
+I recently got my copy of the [Software Engineer's Guidebook](https://www.engguidebook.com/) by Gergely Orosz and it was great to read about the "switching jobs" chapter before actually making the move myself. Gergely tells about _downlevelling_ and in my case this is what happened. I went from four years as an engineer manager to a senior software engineer. Nothing super frustrating but when thinking of a typical career growth it might feel like downlevelling indeed. Truth is, I am not really concerned about this and think that my years as EM will pay off in the middle to long term.
 
 I won't bring any number here aside from one: 20%. I accepted a 20% drop in salary between those two positions. At first, it seemed like a bummer but after four weeks in the position, I'm sure I made the right move and I'm no longer bothered by it.
 
