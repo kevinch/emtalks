@@ -29,7 +29,7 @@ I also checked on several job boards, around 20, and got back in touch with recr
 
 _Quick tip moment_: I try to always respond politely to a recruiter even a bit late. You never know when you might need to get back in touch the other way.
 
-One thing that I quickly realized was the number of engineering management positions available compared to the last time I looked for a role in 2022. I do not have a chart available but it would be interesting to make a timeline with several job boards to see the rough amount of open (known) positions for those roles. My impression is that in 2024 H1, there were not so many openings compared to 2022 H1.
+One thing that I quickly realized was the fewer number of engineering management positions available compared to the last time I looked for a role in 2022. I do not have a chart available but it would be interesting to make a timeline with several job boards to see the rough amount of open (known) positions for those roles. My impression is that in 2024 H1, there were not so many openings compared to 2022 H1.
 
 Now I have to make way for an ex-colleague of mine who became a friend. We had a chat a few weeks after my leave, and talking about positions and companies, he brought my attention to the fact that no EM positions were available at his company but that several IC positions were. IC frontend. See where I'm going?
 
