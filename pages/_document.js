@@ -3,7 +3,8 @@ import { Html, Head, Main, NextScript } from 'next/document'
 export default function Document() {
   const meta = {
     title: 'EM Talks by Kevin C.',
-    description: 'Engineering Management experience between Mercado Livre and VTEX from a frontend engineer slash designer.'
+    description:
+      'Engineering Management experience between Mercado Livre and VTEX from a frontend engineer slash designer.'
   }
 
   return (
@@ -21,7 +22,11 @@ export default function Document() {
         <meta name="twitter:description" content={meta.description} /> */}
         {/* <meta name="twitter:image" content={meta.image} /> */}
         <link rel="shortcut icon" href="/favicon.ico" />
-        <script async src="https://us.umami.is/script.js" data-website-id="fec316e4-7a8d-4229-9bd8-92ad9350a8cf"></script>
+        <script
+          async
+          src="https://cloud.umami.is/script.js"
+          data-website-id="fec316e4-7a8d-4229-9bd8-92ad9350a8cf"
+        ></script>
       </Head>
       <body>
         <Main />
