@@ -20,8 +20,17 @@ export default {
   ),
   head: ({ title, meta }) => (
     <>
+      {title && (
+        <meta
+          property="og:title"
+          content={`${title} | EM Talks by Kevin C.`}
+        />
+      )}
       {meta.description && (
-        <meta name="description" content={meta.description} />
+        <>
+          <meta name="description" content={meta.description} />
+          <meta property="og:description" content={meta.description} />
+        </>
       )}
       {meta.tag && <meta name="keywords" content={meta.tag} />}
       {meta.author && <meta name="author" content={meta.author} />}
